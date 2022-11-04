@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Robin Mason, @RobinFasano on github!
+- 👀 I’m interested in Software and Data Engineering 
+- 🌱 I’m currently learning Python and Data Engineering :) 
+- 💞️ I’m looking to collaborate on Open Source projects
+- 📫 How to reach me
+- LinkedIn: (https://www.linkedin.com/in/robin-jeannine-fasano-6b445b10a/?locale=en_US)
+- Email: robinjeanninemason@gmail.com
